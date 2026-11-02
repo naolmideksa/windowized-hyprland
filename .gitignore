@@ -1,0 +1,17 @@
+# Build artifacts & libraries
+*.so
+*.o
+*.a
+build/
+.cache/
+__pycache__/
+*.pyc
+
+# Logs & temp files
+*.log
+*.tmp
+*.bak
+*~
+
+# Local overrides
+.DS_Store
